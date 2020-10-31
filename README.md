@@ -1,6 +1,6 @@
-# netexplore
+# pyNetexplore
 
-Netexplore is a basic ICMP-based network scanner to easily find hosts in a classic IPv4 network.
+pyNetexplore is a basic ICMP-based network scanner to easily find hosts in a classic IPv4 network.
 
 ## Dependencies
 Of course, Python 3.x is needed to run a script written in Python 3.x. Tested on Python 3.9.
