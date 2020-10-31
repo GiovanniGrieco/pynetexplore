@@ -1,3 +1,4 @@
+#!/bin/env python3
 from argparse import ArgumentParser
 from ipaddress import IPv4Address, ip_network
 from multiprocessing import Pool
